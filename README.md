@@ -1,4 +1,4 @@
-<img width="1850" height="3902" alt="code" src="https://github.com/user-attachments/assets/811ee210-df2b-4d26-b9ef-a6b2982967a2" /># BMR Calculator and Diet Suggestion Program
+# BMR Calculator and Diet Suggestion Program
 
 ## Project Description
 This C program calculates the Basal Metabolic Rate (BMR) based on user input of weight, height, age, and gender using the Mifflin-St Jeor Equation. It provides a rating of the BMR, recommends daily calorie and protein intake, and suggests dietary tips to optimize metabolism. This helps users understand their metabolic rate and make informed nutritional choices.
